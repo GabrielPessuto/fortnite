@@ -28,7 +28,7 @@ Este projeto é uma página web com tema Fortnite, contendo:
 ---
 
 ## 🔥 Objetivo
-Projeto feito para treinar front-end e design estilo gamer/Fortnite.
+Projeto feito para treinar front-end e design
 
 ---
 
