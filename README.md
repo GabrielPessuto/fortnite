@@ -20,11 +20,6 @@ Este projeto é uma página web com tema Fortnite, contendo:
 
 ---
 
-## 🌌 Preview
-![Preview](https://via.placeholder.com/800x400.png?text=FNCS+Friends+Preview)
-
----
-
 ## 📂 Como usar
 1. Baixe o projeto
 2. Abra o `index.html`
